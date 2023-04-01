@@ -1,0 +1,26 @@
+/* your styles go here */
+html, body, * { font-family:SolaimanLipi, 'Shonar Bangla'; }
+@font-face {
+    font-family:"SolaimanLipi";
+    src: url("font/SolaimanLipi.ttf") format("TrueType"); 
+    }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+li,
+ul,
+a,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: SolaimanLipi, 'Shonar Bangla';
+  font-weight: normal;
+  line-height: 1.1;
+  color: #333333;
+}
